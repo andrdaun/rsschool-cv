@@ -17,19 +17,18 @@ I want to become a Frontend developer. This is an interesting job where you get 
 * WebStorm
 ---
 ## Reference code
-const user1 = {
-name: 'Andrey',
-age: 25,
-hasCar: false,
-animals: ['catGinger', 'catGrey']
+```
+function greet() {
+  return 'hello world!'
 }
+```
 ---
 ## Work experience
 No development experience.
 
 ---
 ## Education
-[Resul-university](https://result.school/products/marathon-js)
+[Result-university](https://result.school/products/marathon-js)
 
 ---
 ## Languages:

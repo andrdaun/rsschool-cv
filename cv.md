@@ -46,7 +46,7 @@ No development experience.
 
 ## Education
 
-[Resul-university](https://result.school/products/marathon-js)
+[Result-university](https://result.school/products/marathon-js)
 
 ---
 
